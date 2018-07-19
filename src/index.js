@@ -3,7 +3,7 @@ import {
   View,
 } from 'react-native';
 import Svg from './Component/Svg';
-import svgs from './assets/svgs';
+import svgs from './svg/svgs';
 
 export default class SvgDemo extends Component {
   render() {

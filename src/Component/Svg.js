@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import SvgUri from '../../lib/react-native-svg-uri/index';
-import svgs from '../assets/svgs';
+import svgs from '../svg/svgs';
 
 export default class Svg extends Component {
   render() {
